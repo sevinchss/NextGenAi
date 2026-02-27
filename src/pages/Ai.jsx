@@ -101,7 +101,7 @@ export default function NextGenAI_Hackathon() {
         <header className="flex flex-col md:flex-row justify-between items-center border-b border-white/10 pb-10 mb-12 gap-8">
           <div className="flex flex-col gap-6">
              <div className="flex items-center gap-4">
-                <div className="h-12 w-px bg-blue-500 hidden md:block" />
+                <div className="h-12 w-px  bg-blue-500 hidden md:block" />
                 <div>
                    <p className="text-[9px] font-black tracking-[0.4em] text-blue-400 uppercase italic">Mas'ul Ijrochilar:</p>
                    <h3 className="text-xs font-bold text-white uppercase tracking-tight">Yangi O'zbekiston Universiteti & Muhammad al-Xorazmiy maktabi</h3>
